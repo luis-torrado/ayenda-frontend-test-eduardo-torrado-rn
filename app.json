@@ -1,0 +1,12 @@
+{
+  "name": "test-frontend-interview-rn",
+  "displayName": "test-frontend-interview-rn",
+  "expo": {
+    "name": "test-frontend-interview-rn",
+    "slug": "test-frontend-interview-rn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
